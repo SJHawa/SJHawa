@@ -3,17 +3,15 @@
 </div>
 
 
-
+<a href="https://SJHawa.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/📄 이력서 보기-4967ab?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 ---
 
 ## 🧑‍💼 자기소개
 컴퓨터 소프트웨어를 전공하며, 사용자 경험과 기술의 균형을 중요하게 생각하는 개발자입니다.
 
-<p align="center">
-  <a href="https://SJHawa.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/📄 웹 이력서 보기-4967ab?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+
 ---
 
 ## 🛠 Tech Stacks
